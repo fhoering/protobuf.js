@@ -13,6 +13,7 @@
 
 Contents
 --------
+* 
 
 * [Installation](#installation)<br />
   How to include protobuf.js in your project.
